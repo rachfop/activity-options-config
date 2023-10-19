@@ -15,7 +15,7 @@ To avoid cluttering workflow definitions and to make options more manageable, we
 
 ## Activity Configuration File
 
-We have defined a configuration dictionary named `valid_taxonomy` in the file `say_hello_config.py` (or whichever name you've chosen). The structure is as follows:
+We have defined a configuration dictionary named `valid_taxonomy` in the file `activity_options.py` (or whichever name you've chosen). The structure is as follows:
 
 ```python
 valid_taxonomy = {
